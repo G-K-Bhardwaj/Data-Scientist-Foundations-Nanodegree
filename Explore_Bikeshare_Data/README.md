@@ -53,7 +53,8 @@ The application will ask you question about what filters you want to apply on th
 
 The Bike Share datasets are provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns.
 
-There are three city dataset files used:
+# There are three city dataset files used:
+    
     chicago.csv
     new_york_city.csv
     washington.csv
