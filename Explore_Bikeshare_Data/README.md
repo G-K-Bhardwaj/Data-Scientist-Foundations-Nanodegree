@@ -16,24 +16,24 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 The objective of this project is to creating an interactive application that allow the user to explore the Bike Share Data. Allowing user to see the stats like 
 
-# 1 Popular times of travel
+1. Popular times of travel
 
     most common month
     most common day of week
     most common hour of day
 
-#2 Popular stations and trip
+2. Popular stations and trip
 
     most common start station
     most common end station
     most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-#3 Trip duration
+3. Trip duration
 
     total travel time
     average travel time
 
-#4 User info
+4. User info
 
     counts of each user type
     counts of each gender (only available for NYC and Chicago)
